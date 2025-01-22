@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": "c43665c0-23f7-4aa9-87ac-a896825fb8a1",
+      "text": "buy a yacht"
+    },
+    {
+      "id": "da56687d-ec3b-4d30-a3cf-c5242ea5fb29",
+      "text": "go to all Hawaiian islands"
+    },
+    {
+      "id": "f4d77a96-cfbe-4e13-a85d-493285d49354",
+      "text": "weekend in italy"
+    },
+    {
+      "id": "9fec5e3f-719d-45c5-8a0c-837972825cd6",
+      "text": "walk the dog"
+    }
+  ]
+}
